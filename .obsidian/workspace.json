@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "da1d1e31aab2ab13",
+    "type": "split",
+    "children": [
+      {
+        "id": "6310ee7d56370f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4541d844860ba88",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "table.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "table"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b8627498cc2b75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c9851d2656ca37",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78f4382db820aa18",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff0705a7e010064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7bf836cc2edbe8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4ef060e4071fe74b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a07c0cb3cbd51f92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed93cd56f7e5edf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec196325dadb7bfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "835c18c63dfe36b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Présentation Obsidian/Présentation.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Présentation"
+            }
+          },
+          {
+            "id": "f21fb6ed691ae562",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Présentation Obsidian/Présentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Présentation"
+            }
+          },
+          {
+            "id": "91baa2f320b4ac24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a0e80c65849ace7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Présentation Obsidian/Présentation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Présentation"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "e4541d844860ba88",
+  "lastOpenFiles": [
+    "README.md",
+    "presentationObsidian.md",
+    "table.base",
+    "Présentation Obsidian/Présentation.md",
+    "Publish.md",
+    "export/README.md",
+    "export/Présentation/assets/sync.png",
+    "export/Présentation/assets/spark.png",
+    "export/Présentation/assets/publish.png",
+    "export/Présentation/assets/markdownWhat.png",
+    "export/Présentation/assets/markdown.png",
+    "export/Présentation/assets/galaxyLogo.png",
+    "export/Présentation/assets/galaxy.png",
+    "export/Présentation/assets",
+    "export/Présentation/plugin/chalkboard/img/whiteboard.png",
+    "export/Présentation/plugin/chalkboard/img/sponge.png",
+    "export/Présentation/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Présentation/plugin/chalkboard/style.css",
+    "export/Présentation/plugin/chalkboard/plugin.js",
+    "export/Présentation/plugin/chalkboard/plugin (copy).js",
+    "export/Présentation/plugin/chalkboard/img",
+    "export/Présentation/plugin/chalkboard/_style.css",
+    "export/Présentation/plugin/chalkboard/README.md",
+    "export/Présentation/plugin/chalkboard",
+    "export/Présentation/plugin/chart/plugin.js",
+    "export/Présentation/plugin/chart/chart.min.js",
+    "export/Présentation/plugin/chart/README.md",
+    "export/Présentation/plugin/customcontrols/README.md",
+    "export/Présentation/plugin/menu/README.md",
+    "export/Présentation/plugin/menu/CONTRIBUTING.md",
+    "Untitled.canvas"
+  ]
+}
