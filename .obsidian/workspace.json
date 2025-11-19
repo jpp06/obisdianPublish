@@ -11,23 +11,24 @@
             "id": "e4541d844860ba88",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "table.base",
-                "viewName": "Table"
+                "file": "presentationObsidian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "table"
+              "icon": "lucide-file",
+              "title": "presentationObsidian"
             }
           }
         ]
       },
       {
-        "id": "8b8627498cc2b75b",
+        "id": "d86db7269fe45f84",
         "type": "tabs",
         "children": [
           {
-            "id": "c1c9851d2656ca37",
+            "id": "8c6b892c4c6b9c7f",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Présentation Obsidian/Présentation.md",
+                "file": "presentationObsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Présentation"
+              "title": "Outline of presentationObsidian"
             }
           }
         ],
@@ -189,23 +190,24 @@
   },
   "active": "e4541d844860ba88",
   "lastOpenFiles": [
-    "README.md",
+    "assets/tasks_plugin_filter.png",
     "presentationObsidian.md",
+    "assets/tasks_plugin_acme.png",
+    "assets/tasks_plugin_mini.png",
+    "assets/tasks.png",
+    "assets/tasks.png.sb-f8a75888-Qk09Rl",
+    "assets/tasks_full.png",
+    "assets/graphs.png",
+    "assets/sourceReading.png",
+    "assets/Capture d’écran 2025-11-15 à 10.55.17.png",
+    "README.md",
     "table.base",
     "Présentation Obsidian/Présentation.md",
     "Publish.md",
     "export/README.md",
     "export/Présentation/assets/sync.png",
     "export/Présentation/assets/spark.png",
-    "export/Présentation/assets/publish.png",
-    "export/Présentation/assets/markdownWhat.png",
-    "export/Présentation/assets/markdown.png",
-    "export/Présentation/assets/galaxyLogo.png",
-    "export/Présentation/assets/galaxy.png",
     "export/Présentation/assets",
-    "export/Présentation/plugin/chalkboard/img/whiteboard.png",
-    "export/Présentation/plugin/chalkboard/img/sponge.png",
-    "export/Présentation/plugin/chalkboard/img/chalk-yellow.png",
     "export/Présentation/plugin/chalkboard/style.css",
     "export/Présentation/plugin/chalkboard/plugin.js",
     "export/Présentation/plugin/chalkboard/plugin (copy).js",
@@ -214,7 +216,6 @@
     "export/Présentation/plugin/chalkboard/README.md",
     "export/Présentation/plugin/chalkboard",
     "export/Présentation/plugin/chart/plugin.js",
-    "export/Présentation/plugin/chart/chart.min.js",
     "export/Présentation/plugin/chart/README.md",
     "export/Présentation/plugin/customcontrols/README.md",
     "export/Présentation/plugin/menu/README.md",
