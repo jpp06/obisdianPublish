@@ -190,49 +190,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "62143f4442d0c718",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2561ea05d2ac289d",
-        "type": "window",
-        "children": [
-          {
-            "id": "3ae1427ba8195db6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b7bc3cb8f2a66b8c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Demo ASlides.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Demo ASlides"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1088,
-        "y": 357,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2899a9d0c0ae5dd5",
   "lastOpenFiles": [
-    "assets/series.png",
+    "Demo ASlides.md",
     "presentationObsidian.md",
+    "assets/series.png",
     "assets/issuesGithub.png",
     "assets/horariresActivites.png",
     "assets/advSlidesExample.png",
@@ -240,7 +202,6 @@
     "assets/journal.png",
     "assets/journal.png",
     "assets/dataviewJs.png",
-    "Demo ASlides.md",
     "assets/dataview.png",
     "README.md",
     "assets/galaxy.png",
