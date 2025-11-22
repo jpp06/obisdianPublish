@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6310ee7d56370f98",
+        "id": "c4b43783d01cf528",
         "type": "tabs",
+        "dimension": 48.236331569664905,
         "children": [
           {
-            "id": "e4541d844860ba88",
+            "id": "2899a9d0c0ae5dd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "presentationObsidian.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "presentationObsidian"
@@ -24,11 +25,12 @@
         ]
       },
       {
-        "id": "d86db7269fe45f84",
+        "id": "a83979abcee2665f",
         "type": "tabs",
+        "dimension": 51.763668430335095,
         "children": [
           {
-            "id": "8c6b892c4c6b9c7f",
+            "id": "ce7542c2e4635bf6",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -188,25 +190,65 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e4541d844860ba88",
+  "floating": {
+    "id": "62143f4442d0c718",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2561ea05d2ac289d",
+        "type": "window",
+        "children": [
+          {
+            "id": "3ae1427ba8195db6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b7bc3cb8f2a66b8c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo ASlides.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Demo ASlides"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1088,
+        "y": 357,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2899a9d0c0ae5dd5",
   "lastOpenFiles": [
-    "assets/tasks_plugin_filter.png",
+    "assets/series.png",
     "presentationObsidian.md",
-    "assets/tasks_plugin_acme.png",
-    "assets/tasks_plugin_mini.png",
-    "assets/tasks.png",
-    "assets/tasks.png.sb-f8a75888-Qk09Rl",
-    "assets/tasks_full.png",
-    "assets/graphs.png",
-    "assets/sourceReading.png",
-    "assets/Capture d’écran 2025-11-15 à 10.55.17.png",
+    "assets/issuesGithub.png",
+    "assets/horariresActivites.png",
+    "assets/advSlidesExample.png",
+    "assets/taskDaily.png",
+    "assets/journal.png",
+    "assets/journal.png",
+    "assets/dataviewJs.png",
+    "Demo ASlides.md",
+    "assets/dataview.png",
     "README.md",
+    "assets/galaxy.png",
     "table.base",
+    "assets/tasks.png.sb-f8a75888-Qk09Rl",
     "Présentation Obsidian/Présentation.md",
     "Publish.md",
     "export/README.md",
-    "export/Présentation/assets/sync.png",
-    "export/Présentation/assets/spark.png",
     "export/Présentation/assets",
     "export/Présentation/plugin/chalkboard/style.css",
     "export/Présentation/plugin/chalkboard/plugin.js",

@@ -1,0 +1,70 @@
+.reveal {
+  font-size: 1em;
+  background: #111111;
+  color: #FFFFFF;
+}
+
+.reveal .slides {
+  text-align: left;
+  align-items: left;
+  justify-content: left
+}
+
+.reveal table {
+  font-size: 0.2em;
+}
+
+.reveal h1 {
+  font-size: 5em;
+  color: #B22222;
+  text-align: left;
+}
+.reveal h2 {
+  font-size: 5em;
+  color: #B22222;
+}
+.reveal h3 {
+  font-size: 4em;
+  color: #B22222;
+}
+.reveal h4 {
+  font-size: 3em;
+  color: #B22222;
+}
+.reveal h5 {
+  font-size: 2em;
+  color: #B22222;
+}
+.reveal h6 {
+  font-size: 1.5em;
+  color: #B22222;
+}
+
+.reveal p {
+    font-size: 1em;
+    text-align: left;
+}
+
+.controls, .controls-arrow {
+  color: #FF0000;
+  background-color: #333333;
+}
+
+
+.reveal p {
+  text-align: left;
+  align-items: start;
+}
+.reveal ul {
+  display: block;
+  align-items: start;
+}
+.reveal ol {
+  display: block;
+  align-items: start;
+}
+
+.reveal .slides > section > section {
+  text-align:left;
+  align-items: start;
+}
