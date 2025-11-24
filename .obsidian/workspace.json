@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b43783d01cf528",
+        "id": "66ab85322a7c150c",
         "type": "tabs",
         "children": [
           {
-            "id": "2899a9d0c0ae5dd5",
+            "id": "ad63d8b98036d66c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "presentationObsidian.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "presentationObsidian"
-            }
-          }
-        ]
-      },
-      {
-        "id": "eb34666a1860fab3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8852858f00bee995",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "README"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentationObsidian.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for presentationObsidian"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "presentationObsidian.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from presentationObsidian"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentationObsidian.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of presentationObsidian"
+              "title": "Outline of README"
             }
           },
           {
@@ -195,42 +179,58 @@
       "bases:Create new base": false,
       "publish:Publish changes...": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "835c18c63dfe36b2",
+  "active": "ad63d8b98036d66c",
   "lastOpenFiles": [
-    "Demo ASlides.md",
-    "presentationObsidian.md",
-    "assets/series.png",
-    "assets/issuesGithub.png",
-    "assets/horariresActivites.png",
-    "assets/advSlidesExample.png",
-    "assets/taskDaily.png",
-    "assets/journal.png",
-    "assets/journal.png",
-    "assets/dataviewJs.png",
-    "assets/dataview.png",
-    "README.md",
-    "assets/galaxy.png",
+    "GitGithub/visu_ascii.md",
+    "GitGithub/github.md",
+    "GitGithub/git-github.md",
+    "GitGithub/git.md",
+    "GitGithub/Prez GitHub/Prez GitHub.md",
+    "GitGithub/Prez GitHub/prMerge.excalidraw.md",
+    "GitGithub/Prez GitHub/newIssue.excalidraw.md",
+    "GitGithub/Prez GitHub/issuesList.excalidraw.md",
+    "GitGithub/Prez GitHub/prFromCode.excalidraw.md",
+    "GitGithub/Prez GitHub/newPullReq_code.png",
+    "GitGithub/Prez GitHub/newIssue.png",
+    "GitGithub/Prez GitHub/kanban.png",
+    "GitGithub/Prez GitHub.pdf",
+    "GitGithub/Prez GitHub/issueList.png",
+    "GitGithub/TP/Solutions/TP1-configuration.md",
+    "GitGithub/TP/Solutions/TP5-bonnes-pratiques.md",
+    "GitGithub/TP/Solutions/TP4-avance.md",
+    "GitGithub/TP/Solutions/TP3-github.md",
+    "GitGithub/TP/Solutions/TP2-branches.md",
+    "GitGithub/TP/TP5-bonnes-pratiques.md",
+    "GitGithub/TP/TP4-avance.md",
+    "GitGithub/TP/TP3-github.md",
+    "GitGithub/TP/TP2-branches.md",
+    "GitGithub/TP/TP1-configuration.md",
+    "GitGithub/TP/Solutions",
+    "GitGithub/TP",
+    "GitGithub/Prez GitHub/project.png",
+    "GitGithub/Prez GitHub/prReview.png",
+    "GitGithub/Prez GitHub/prReview.excalidraw.md",
+    "GitGithub/Prez GitHub/prMerge.png.png",
+    "GitGithub/Prez GitHub/kanban.excalidraw.md",
+    "GitGithub/Prez GitHub",
+    "Prez GitHub.pdf",
+    "Prez GitHub/project.png",
+    "Prez GitHub/prReview.png",
+    "Prez GitHub/prReview.excalidraw.md",
+    "Prez GitHub/prMerge.png.png",
+    "Prez GitHub/prMerge.excalidraw.md",
+    "Prez GitHub/prFromCode.excalidraw.md",
+    "Prez GitHub/newIssue.excalidraw.md",
+    "Prez GitHub/kanban.excalidraw.md",
+    "Prez GitHub",
+    "GitGithub",
     "table.base",
     "assets/tasks.png.sb-f8a75888-Qk09Rl",
-    "Présentation Obsidian/Présentation.md",
-    "Publish.md",
-    "export/README.md",
     "export/Présentation/assets",
-    "export/Présentation/plugin/chalkboard/style.css",
-    "export/Présentation/plugin/chalkboard/plugin.js",
-    "export/Présentation/plugin/chalkboard/plugin (copy).js",
-    "export/Présentation/plugin/chalkboard/img",
-    "export/Présentation/plugin/chalkboard/_style.css",
-    "export/Présentation/plugin/chalkboard/README.md",
-    "export/Présentation/plugin/chalkboard",
-    "export/Présentation/plugin/chart/plugin.js",
-    "export/Présentation/plugin/chart/README.md",
-    "export/Présentation/plugin/customcontrols/README.md",
-    "export/Présentation/plugin/menu/README.md",
-    "export/Présentation/plugin/menu/CONTRIBUTING.md",
     "Untitled.canvas"
   ]
 }
