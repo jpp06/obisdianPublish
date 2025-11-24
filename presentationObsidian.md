@@ -357,3 +357,14 @@ C'est pas powerpoint ou prezi
 
 - [just do git!](https://github.com/Vinzent03/obsidian-git)
 ---
+
+# Combien ?
+
+- [synch](https://obsidian.md/sync) : **48$ / an / personne**, un vault
+	- synch mutli-devices
+	- peut se faire en perso (git, nextCloud, ...)
+- [publish](https://obsidian.md/publish) : **96$ / an / personne**
+	- publication de site statique
+	- collaboration sur un vault
+	- mot de passe
+- pas de licence commerciale

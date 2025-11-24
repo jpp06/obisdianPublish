@@ -1,7 +1,7 @@
 {
   "port": "3000",
   "autoReload": true,
-  "exportDirectory": "../ObsidianPresentation/",
+  "exportDirectory": "../ObsidianPresentation",
   "enableChalkboard": false,
   "enableOverview": false,
   "enableMenu": false,

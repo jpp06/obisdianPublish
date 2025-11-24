@@ -6,7 +6,6 @@
       {
         "id": "c4b43783d01cf528",
         "type": "tabs",
-        "dimension": 48.236331569664905,
         "children": [
           {
             "id": "2899a9d0c0ae5dd5",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "a83979abcee2665f",
+        "id": "eb34666a1860fab3",
         "type": "tabs",
-        "dimension": 51.763668430335095,
         "children": [
           {
-            "id": "ce7542c2e4635bf6",
+            "id": "8852858f00bee995",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Présentation Obsidian/Présentation.md",
+                "file": "presentationObsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Présentation"
+              "title": "Backlinks for presentationObsidian"
             }
           },
           {
@@ -131,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Présentation Obsidian/Présentation.md",
+                "file": "presentationObsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Présentation"
+              "title": "Outgoing links from presentationObsidian"
             }
           },
           {
@@ -161,21 +159,30 @@
               "type": "outline",
               "state": {
                 "file": "presentationObsidian.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of presentationObsidian"
             }
+          },
+          {
+            "id": "1095346ed03c7621",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +194,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "publish:Publish changes...": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2899a9d0c0ae5dd5",
+  "active": "835c18c63dfe36b2",
   "lastOpenFiles": [
     "Demo ASlides.md",
     "presentationObsidian.md",
