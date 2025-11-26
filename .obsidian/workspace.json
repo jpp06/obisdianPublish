@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "66ab85322a7c150c",
+        "id": "4796b2bba9bff144",
         "type": "tabs",
         "children": [
           {
-            "id": "ad63d8b98036d66c",
+            "id": "55c38c51f6dd69dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "presentationObsidian.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "presentationObsidian"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f322f5cf2c0533f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0399c35da555ad",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ]
@@ -183,8 +199,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ad63d8b98036d66c",
+  "active": "55c38c51f6dd69dd",
   "lastOpenFiles": [
+    "assets/calcCraft_source_courir.png",
+    "presentationObsidian.md",
+    "assets/miniCalc.png",
+    "assets/calcCraft_edit.png",
+    "assets/calcCraft_source.png",
+    "README.md",
     "GitGithub/visu_ascii.md",
     "GitGithub/github.md",
     "GitGithub/git-github.md",
@@ -214,18 +236,11 @@
     "GitGithub/Prez GitHub/project.png",
     "GitGithub/Prez GitHub/prReview.png",
     "GitGithub/Prez GitHub/prReview.excalidraw.md",
-    "GitGithub/Prez GitHub/prMerge.png.png",
     "GitGithub/Prez GitHub/kanban.excalidraw.md",
     "GitGithub/Prez GitHub",
     "Prez GitHub.pdf",
-    "Prez GitHub/project.png",
-    "Prez GitHub/prReview.png",
     "Prez GitHub/prReview.excalidraw.md",
-    "Prez GitHub/prMerge.png.png",
     "Prez GitHub/prMerge.excalidraw.md",
-    "Prez GitHub/prFromCode.excalidraw.md",
-    "Prez GitHub/newIssue.excalidraw.md",
-    "Prez GitHub/kanban.excalidraw.md",
     "Prez GitHub",
     "GitGithub",
     "table.base",

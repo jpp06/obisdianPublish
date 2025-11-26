@@ -351,6 +351,37 @@ C'est pas powerpoint ou prezi
 
 ---
 
+# calculs
+
+- sommes
+- colonnes, lignes
+
+![[miniCalc.png]]
+---
+
+<grid drag="95 10" drop="5 0">
+# "mini" Excel
+</grid>
+
+<grid drag="90 50" drop="5 10">
+- formules simples
+- décoration/édition des tableaux
+
+- [CalcCraft](https://github.com/klaudyu/CalcCraft)
+</grid>
+
+<grid drag="45 30" drop="3 55">
+![[calcCraft_source.png|400]]
+</grid>
+<grid drag="45 30" drop="52 55">
+![[calcCraft_edit.png|400]]
+</grid>
+
+<grid drag="90 30" drop="3 85">
+![[calcCraft_source_courir.png]]
+</grid>
+---
+
 # git (plugin)
 
 - ToDo
